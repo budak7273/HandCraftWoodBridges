@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc43e4983a160e543856e5ba0421c9e1, type: 3}
+  m_Name: HandCraftWoodBridges
+  m_EditorClassIdentifier: 
+  metadata:
+    guid: c9357c5bd7fd46c59fb8cd73d13fce04
+    name: HandCraftWoodBridges
+    skipSafetyChecks: 0
+    accessesExtraAssemblies: 1
+    disableHarmonyPatching: 0
+    requiredOn: 0
+    files: []
+    dependencies:
+    - modName: CoreLib
+      required: 1
+    - modName: CoreLib.Entity
+      required: 1
+  modPath: Assets\Mods\HandCraftWoodBridges
