@@ -16,10 +16,15 @@ MonoBehaviour:
     guid: c9357c5bd7fd46c59fb8cd73d13fce04
     name: HandCraftWoodBridges
     skipSafetyChecks: 0
+    disableScripts: 0
     accessesExtraAssemblies: 1
     disableHarmonyPatching: 0
     requiredOn: 0
-    files: []
+    files:
+    - path: Scripts/HandCraftWoodBridgesTweaks.cs
+    - path: Scripts/HandCraftWoodBridgesMod.cs
+    - path: Bundles/HandCraftWoodBridges_Windows.assetbundle
+    - path: Bundles/HandCraftWoodBridges_Linux.assetbundle
     dependencies:
     - modName: CoreLib
       required: 1

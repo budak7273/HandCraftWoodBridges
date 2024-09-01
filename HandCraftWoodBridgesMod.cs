@@ -9,7 +9,7 @@ namespace HandCraftWoodBridges
 {
     public class HandCraftWoodBridgesMod : IMod
     {
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.1";
         public const string NAME = "Hand Craft Wood Bridges";
         private LoadedMod modInfo;
 
